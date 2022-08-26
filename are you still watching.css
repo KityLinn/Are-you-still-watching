@@ -1,0 +1,120 @@
+
+
+.box {
+    background-color: white;
+    margin: auto;
+    width: 50%;
+    height: 10vh;
+
+}
+
+.box1 {
+    background-color: rgba(102, 128, 124, 1);
+    margin: auto;
+    width: 70%;
+    height: 70vh;
+
+}
+
+.box1 h1 {
+    text-align: center;
+    padding-top: 60px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 50px;
+
+
+}
+
+.box1 h3 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    
+}
+
+.box1 p {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: block;
+    width: 500px;
+    display: table;
+    margin: 0 auto;
+    font-size: 17px;
+    font-weight:100;
+
+}
+
+span.a {
+    text-decoration: underline;
+    letter-spacing: 3px;
+}
+
+span.b {
+    color: red;
+    text-shadow:
+		-2px -2px 0 #000,
+		2px -2px 0 #000,
+		-2px 2px 0 #000,
+		2px 2px 0 #000;
+
+}
+
+span.c {
+    color: red;
+    text-shadow:
+		-2px -2px 0 #000,
+		2px -2px 0 #000,
+		-2px 2px 0 #000,
+		2px 2px 0 #000;
+
+}
+
+span.d {
+    font-weight: bold;
+}
+
+span.e {
+    font-weight: bold;
+
+}
+
+span.f {
+    font-weight: bold;
+
+}
+
+span.g {
+    color: rgba(196, 213, 245, 1);
+
+}
+
+.text2 {
+    padding-top: 40px;
+}
+.button {
+    margin: auto;
+    width: 32%;
+    height: 10vh;
+    background-color: red;
+    border-color: #000;
+    border-radius: 8%;
+    border-width: 4px;
+    margin-left: 33%;
+    margin-top: 30px;
+
+}
+
+.button h2 {
+    text-align: center;
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color: white;
+  }
+
+.button h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
