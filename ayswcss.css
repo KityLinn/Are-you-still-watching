@@ -9,11 +9,13 @@
 }
 
 .box1 {
-    background-color:blue;
+    background-color: rgba(102, 128, 124, 1);
     margin: auto;
     width: 70%;
     height: 70vh;
     border-radius: 2px;
+    border-color: rgba(102, 128, 124, 1);
+    border-width: 1px;
 
 }
 
